@@ -15,12 +15,12 @@
 
 ## 沟通目录
 
-- [通讯录](contact.md)
+- [通讯录](tracker\contact.md)
 
 ## 需求素材
 
-- [图片](image.md)
-- [音效](sound.md)
+- [图片](assets\image.md)
+- [音效](assets\sound.md)
 
 ### ？？？
 
