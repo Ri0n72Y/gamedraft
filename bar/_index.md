@@ -11,10 +11,10 @@
 
 ## 沟通目录
 
-- [通讯录](tracker\contact.md)
-- [时间表](tracker\schedule.md)
+- [通讯录](tracker/contact.md)
+- [时间表](tracker/schedule.md)
 
 ## 需求素材
 
-- [图片](assets\image.md)
-- [音效](assets\sound.md)
+- [图片](assets/image.md)
+- [音效](assets/sound.md)
