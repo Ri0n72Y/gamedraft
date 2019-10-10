@@ -5,5 +5,5 @@
 - [原材料](item/raw.md)
 - [食物](item/cooked.md)
 - [工具](item/tool.md)
-- [容器](item/package.md)
+- [背包](item/container.md)
 - [其他](item/other.md)
