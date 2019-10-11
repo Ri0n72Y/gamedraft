@@ -7,7 +7,9 @@
 - [烹饪设定](cook.md)
 - [交互](interact.md)
 - [地图](map.md)
-- [隐藏剧情](story.md)
+- [采用的故事](scripts/staged_stories.md)
+- [背景草案](scripts/story.md)
+- [作者添加的剧情草稿](scripts/background_story_pickup.md)
 
 ## 沟通目录
 
