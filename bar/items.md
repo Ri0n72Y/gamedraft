@@ -15,11 +15,9 @@
 ### 食用原材料
 
 可以收获的为原材料
-- [苹果](items\apple.md)
-- [桃子](items\peach.md)
+
 - [水瓜](items\waterfruit.md)
 - [核果](items\corefruit.md)
-- [机果](items\mechfruit.md)
 
 **data**
 
