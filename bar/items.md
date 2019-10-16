@@ -14,6 +14,13 @@
 
 ### 食用原材料
 
+可以收获的为原材料
+- [苹果](items\apple.md)
+- [桃子](items\peach.md)
+- [水瓜](items\waterfruit.md)
+- [核果](items\corefruit.md)
+- [机果](items\mechfruit.md)
+
 **data**
 
 * ID
@@ -38,9 +45,6 @@
 食用原材料经过加工得到食物
 由于烹饪方法过多，可能需要分很多类别
 食物命名可以考虑使用前后缀，比如“苹果汁”“热苹果汁”“苹果汁加柠檬片”
-
-- [水瓜](items\waterfruit.md)
-- [核果](items\corefruit.md)
 
 **data**
 
