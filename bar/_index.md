@@ -3,7 +3,7 @@
 ## 内容目录
 
 - [角色设定](character.md)
-- [道具设定](itemlist.md)
+- [道具设定](items.md)
 - [烹饪设定](cook.md)
 - [交互](interact.md)
 - [地图](map.md)
