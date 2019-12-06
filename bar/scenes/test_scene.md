@@ -6,11 +6,12 @@
 
 ## Class Attributes
 
+```json
 Character : Object
 
 - super (extended from h2d.Object) // as reminding, object has: transform, parent, child lists;
 - sprite (as child)
-- controller : Either PlayerController | AutoController (for NPC)
+- controller : Either PlayerController | AutoController (for NPC) // removed, controller now is isolated class for multiplayer
 - triggers / events
 
 Player : Character
@@ -33,16 +34,9 @@ Abstract Item : Object
 - attributes
 - triggers
 
-Seed : Item
+Seed : Fruit
 
-- super
-- type : Fruit
-- state : {Fresh, Dry, Sleep}
-- timeBirth : GameTime
-
-Seed_WaterFruit : Seed
-
-// 这里有两种思路实现。一类是利用继承把每个种子独立出来的class，可以增加特殊的方法或者动画（如某些种子可能会自己移动？自己在地上待久了会种下去变成植物）；另一类是通过给seed class添加ID，instance seed 来区分不同种类的seed，ID来find texture和Anim clip. 后者也许可以降低程序复杂度
+// 种子可以是一种特殊的水果，拥有发芽的能力
 
 Machine : Object
 
@@ -102,3 +96,4 @@ Basket : Container
 
 - super
 - capacity | meshing // meshing指类似大菠萝物品栏一样的爬格子堆东西
+```
