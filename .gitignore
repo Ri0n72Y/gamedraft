@@ -1,3 +1,5 @@
 bar/assets/setting
-
+/bar_proj
 *.jpg
+*.gif
+*.png
